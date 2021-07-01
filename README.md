@@ -5,3 +5,7 @@ MMU Dataset can be found here:
 http://andyzeng.github.io/irisrecognition
 
 After the dataset installation, dataset should be renamed as MMU and needs to be located under the same directory of this project.
+
+GaborFilterBank and GaborFeatures functions are taken from as shown below:
+
+https://www.mathworks.com/matlabcentral/fileexchange/44630-gabor-feature-extraction
